@@ -1,4 +1,4 @@
-# DataVisualization2418053
+# DataVisualization
 Analisis dan Visualisasi Data Students Performance
 Proyek ini bertujuan untuk melakukan pembersihan dan visualisasi data nilai siswa menggunakan Python di Google Colab. Dataset yang digunakan adalah Students Performance in Exams dari Kaggle.
 
